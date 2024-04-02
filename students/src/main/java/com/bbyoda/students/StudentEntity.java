@@ -1,4 +1,4 @@
-package com.bbyoda.springbootk8s.student;
+package com.bbyoda.students;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

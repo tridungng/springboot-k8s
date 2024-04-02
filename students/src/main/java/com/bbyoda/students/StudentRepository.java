@@ -1,4 +1,4 @@
-package com.bbyoda.springbootk8s.student;
+package com.bbyoda.students;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

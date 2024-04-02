@@ -1,4 +1,4 @@
-package com.bbyoda.springbootk8s.student;
+package com.bbyoda.students;
 
 import lombok.Data;
 
